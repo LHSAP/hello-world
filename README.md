@@ -1,3 +1,5 @@
 # hello-world
 Hello-World
-my first repository readme
+
+Hi I am making some changes and I am waiting for a new battery.
+
